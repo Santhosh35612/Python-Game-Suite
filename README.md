@@ -33,4 +33,4 @@ Python Game Suite is a collection of interactive, easy-to-play games developed i
 ## Author
 
 Santhosh (Chandra Sekar)
-# Python-Games
+
